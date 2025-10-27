@@ -6,7 +6,7 @@
 
 [博客后端仓库](https://github.com/HanphoneJan/hanphone-blog-backend)
 
-[][HanphoneJan/admin-file: 文件管理服务器][文件管理后端](https://github.com/HanphoneJan/admin-file)
+[文件管理后端](https://github.com/HanphoneJan/admin-file)
 
 ### 项目结构
 
