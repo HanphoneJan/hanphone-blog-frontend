@@ -1,0 +1,8 @@
+{
+    "typescript.tsdk": "./node_modules/typescript/lib",
+
+  "editor.defaultFormatter": "esbenp.prettier-vscode", // 设置默认格式化工具
+  "editor.formatOnSave": true,                         // 保存时自动格式化
+   "prettier.configPath": ".prettierrc.js" 
+
+}
