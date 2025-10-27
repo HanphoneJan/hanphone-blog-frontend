@@ -10,7 +10,7 @@ interface LocationInfo {
 
 export async function getLocationInfo(): Promise<LocationInfo> {
   try {
-    const key = 'AMIBZ-6BSWV-W5ZP4-52TMM-ZQW4H-3MBP7'
+    const key = 'xxxxxxxxxxxxxxxxxxxxxx' // 替换为你的腾讯地图API密钥
     const url = `https://apis.map.qq.com/ws/location/v1/ip?key=${key}&output=jsonp`
 
     // 使用fetch API获取位置信息
